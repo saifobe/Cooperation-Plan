@@ -1,3 +1,5 @@
+# Cooperation Plan
+
 ### What are the key strengths of each person on the team?
 
 - Emam Mounqer : Emam is the most experienced member in the team, he has a good experience in the field of programming and he is a good team leader.
@@ -24,7 +26,7 @@
 - We will use Trello to manage our work.
 
 
-
+# Conflict Plan
 
 ### What will be your group’s process to resolve conflict, when it arises? 
 - We will discuss the problem and try to find a solution for it, if we can't find a solution we will ask the TA for help.
@@ -42,7 +44,10 @@
 - Group Communication: If the issue is not resolved, the next step is to bring it up with the entire group. This can be done in person or via a group chat.
 
 ### How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-- If the issue is not resolved, the next step is to bring it up with the entire group. This can be done in person or via a group chat.
+- If the issue is not resolved, the next step is to bring it up with the entire group. This can be done in 
+person or via a group chat.
+
+# Communication Plan
 
 ### What hours will you be available to communicate?
 - We will be available from 10:00 am to 5:00 pm.
@@ -65,13 +70,15 @@
 ### How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 - We Respect each other and we will listen to each other.
 
+# Work Plan
+
 ### How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 - We will use Trello to manage our work.
 
 ### What project management tool will be used?
 - We will use Trello.
 
-## Git Process
+# Git Process
 
 ### What components of your project will live on GitHub?
 - The whole project will live on GitHub.
