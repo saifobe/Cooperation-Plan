@@ -1,14 +1,30 @@
-## Emam Mounqer : Emam is the most experienced member in the team, he has a good experience in the field of programming and he is a good team leader.
+### What are the key strengths of each person on the team?
 
-## Tala Asfan : Tala has bio medical engineering background, and she is good with problem solving and she is a good team member.
+- Emam Mounqer : Emam is the most experienced member in the team, he has a good experience in the field of programming and he is a good team leader.
 
-## Amer AL-Omari: Amer is very good developer, he has a good experience in the field of programming and he is a good team member.
+- Tala Asfan : Tala has bio medical engineering background, and she is good with problem solving and she is a good team member.
 
-## Mohammad Shahin : Mohammad has an engineering background, he is vary good in mathmatics and he is a good team member.
+- Amer AL-Omari: Amer is very good developer, he has a good experience in the field of programming and he is a good team member.
 
-## Anas Al-Sallak : Anas is a  network engineer and security specialist, he has a degree in network engineering and he is a good team member.
+- Mohammad Shahin : Mohammad has an engineering background, he is vary good in mathmatics and he is a good team member.
 
-## Saif Obeidat : Team Leader
+- Anas Al-Sallak : Anas is a  network engineer and security specialist, he has a degree in network engineering and he is a good team member.
+
+- Saif Obeidat : Team Leader
+
+### How can you best utilize these strengths in the execution of your project?
+- We will use these strengths to help each other to finish the project.
+- We will use these strengths to help each other to solve problems.
+
+### In which professional competencies do you each want to develop greater strength?
+- We want to develop our skills in the field of programming.
+
+### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+- We will divide the work between us and we will help each other to finish the project. and we will communicate via Slack and discord.
+- We will use Trello to manage our work.
+
+
+
 
 ### What will be your group’s process to resolve conflict, when it arises? 
 - We will discuss the problem and try to find a solution for it, if we can't find a solution we will ask the TA for help.
